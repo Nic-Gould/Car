@@ -44,7 +44,7 @@ t=8.12
 
 ## STEERING, DRIVE AND SUSPENSION
 
-Independant suspension at each wheel. A linear actuator is used at each wheel to push/pull the wheel around its vertical axis in order to steer. This allows each wheel to steer independantly. A Motor is attached to each wheel, connected by a CV axel. This allows each wheel to spin independantly without requiring a diff, and also allows wheels to spin in opposite directions, allowing zero turn functionality.
+Independant suspension at each wheel. A linear actuator is used at each wheel to push/pull the wheel around its vertical axis in order to steer. This allows each wheel to steer independantly. A Motor is attached to each wheel, connected by a CV axle. This allows each wheel to spin independantly without requiring a diff, and also allows wheels to spin in opposite directions, allowing a turning circle of zero.
 
 
 ## Motors
