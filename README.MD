@@ -12,6 +12,7 @@ Don't drive this thing on public roads. I'm looking at getting this approved und
 
 
 ## Control System
+![alt text](./images/4cam.jpg "360 Cameras")
 * 4xESP32CAM 
 * 4x 5MP OV5642 MINI CAM 
 * ESP32-S3-WROOM-1-N8 DEV BRD @ AU$22.31
