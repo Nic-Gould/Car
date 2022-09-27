@@ -6,9 +6,11 @@ This open source design outlines a DIY electric vehicle. The design is loosely b
 
 The design is intended as a platform to run OpenHUD software, using an LCD screen as a replacement for the traditional windscreen (basically because I’ve wanted cars to have HUDs since I was a kid). Realistically these are two completely seperate projects; you could put an LCD w/OpenHUD on any old car, or have a DIY electric car without it. 
 
+![alt text](./images/mockup.png "3d Mockup")
+
 Ardupilot-rover open source software is used as the backbone of the control system (It has come to my attention that Ardupilot does not meet Standards and Guidlines for Safety Critical Software. As such I intend to write a basic control interface in Rust which ALSO won't be compliant, but at least I'll learn rust :-) non-critical systems could still be written in c++ or python). Additional work could be done to integrate google maps navigation with something like missionplanner or QgroundStation to make the car follow a predefined route. OpenHUD has object detection capabilities, but the neural networks used in OpenHUD would need additional training before full self-driving capabilities could be used. 
 
-![alt text](./images/Epic Hillar(1).png "3d Mockup")
+
 Don't drive this thing on public roads. I'm looking at getting this approved under the Street Rod certification program once completed. 
 
 
